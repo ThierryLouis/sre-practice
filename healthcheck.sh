@@ -1,1 +1,3 @@
 Healthcheck script
+#!/bin/bash
+
